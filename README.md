@@ -22,4 +22,4 @@ v2.0 will have the following: (1) improved chess engine and (2) option to battle
 
 ## Acknowledgements
 
-UI inspired by [codethejason/checkers](https://github.com/codethejason/checkers).
+Code forked from [arpansahoo/reactjs-chess](https://github.com/arpansahoo/reactjs-chess)
